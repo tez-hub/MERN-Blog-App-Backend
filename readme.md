@@ -1,0 +1,1 @@
+npm install nodemon dotenv express mongoose multer
